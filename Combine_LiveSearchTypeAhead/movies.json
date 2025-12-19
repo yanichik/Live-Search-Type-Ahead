@@ -1,0 +1,828 @@
+{
+    "allMovies": [
+        {
+            "id": 1,
+            "title": "The Godfather",
+            "year": 1972,
+            "genre": [
+                "Crime",
+                "Drama"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "The Dark Knight",
+            "year": 2008,
+            "genre": [
+                "Action",
+                "Crime",
+                "Drama"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Pulp Fiction",
+            "year": 1994,
+            "genre": [
+                "Crime",
+                "Drama"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "The Shawshank Redemption",
+            "year": 1994,
+            "genre": [
+                "Drama"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Inception",
+            "year": 2010,
+            "genre": [
+                "Action",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Fight Club",
+            "year": 1999,
+            "genre": [
+                "Drama"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Forrest Gump",
+            "year": 1994,
+            "genre": [
+                "Drama",
+                "Romance"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "The Matrix",
+            "year": 1999,
+            "genre": [
+                "Sci-Fi",
+                "Action"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Goodfellas",
+            "year": 1990,
+            "genre": [
+                "Crime",
+                "Drama"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "The Lord of the Rings: The Fellowship of the Ring",
+            "year": 2001,
+            "genre": [
+                "Fantasy",
+                "Adventure"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "The Lord of the Rings: The Two Towers",
+            "year": 2002,
+            "genre": [
+                "Fantasy",
+                "Adventure"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "The Lord of the Rings: The Return of the King",
+            "year": 2003,
+            "genre": [
+                "Fantasy",
+                "Adventure"
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Star Wars: A New Hope",
+            "year": 1977,
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Star Wars: The Empire Strikes Back",
+            "year": 1980,
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Star Wars: Return of the Jedi",
+            "year": 1983,
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Interstellar",
+            "year": 2014,
+            "genre": [
+                "Sci-Fi",
+                "Drama"
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Gladiator",
+            "year": 2000,
+            "genre": [
+                "Action",
+                "Drama"
+            ]
+        },
+        {
+            "id": 18,
+            "title": "The Silence of the Lambs",
+            "year": 1991,
+            "genre": [
+                "Thriller"
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Saving Private Ryan",
+            "year": 1998,
+            "genre": [
+                "War",
+                "Drama"
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Se7en",
+            "year": 1995,
+            "genre": [
+                "Crime",
+                "Thriller"
+            ]
+        },
+        {
+            "id": 21,
+            "title": "The Prestige",
+            "year": 2006,
+            "genre": [
+                "Drama",
+                "Mystery"
+            ]
+        },
+        {
+            "id": 22,
+            "title": "Memento",
+            "year": 2000,
+            "genre": [
+                "Mystery",
+                "Thriller"
+            ]
+        },
+        {
+            "id": 23,
+            "title": "Whiplash",
+            "year": 2014,
+            "genre": [
+                "Drama",
+                "Music"
+            ]
+        },
+        {
+            "id": 24,
+            "title": "The Departed",
+            "year": 2006,
+            "genre": [
+                "Crime",
+                "Drama"
+            ]
+        },
+        {
+            "id": 25,
+            "title": "The Green Mile",
+            "year": 1999,
+            "genre": [
+                "Drama",
+                "Fantasy"
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Braveheart",
+            "year": 1995,
+            "genre": [
+                "War",
+                "Drama"
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Titanic",
+            "year": 1997,
+            "genre": [
+                "Drama",
+                "Romance"
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Avatar",
+            "year": 2009,
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Jurassic Park",
+            "year": 1993,
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ]
+        },
+        {
+            "id": 30,
+            "title": "The Lion King",
+            "year": 1994,
+            "genre": [
+                "Animation",
+                "Drama"
+            ]
+        },
+        {
+            "id": 31,
+            "title": "Terminator 2: Judgment Day",
+            "year": 1991,
+            "genre": [
+                "Sci-Fi",
+                "Action"
+            ]
+        },
+        {
+            "id": 32,
+            "title": "Alien",
+            "year": 1979,
+            "genre": [
+                "Sci-Fi",
+                "Horror"
+            ]
+        },
+        {
+            "id": 33,
+            "title": "Aliens",
+            "year": 1986,
+            "genre": [
+                "Sci-Fi",
+                "Action"
+            ]
+        },
+        {
+            "id": 34,
+            "title": "Blade Runner",
+            "year": 1982,
+            "genre": [
+                "Sci-Fi",
+                "Thriller"
+            ]
+        },
+        {
+            "id": 35,
+            "title": "Back to the Future",
+            "year": 1985,
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ]
+        },
+        {
+            "id": 36,
+            "title": "Back to the Future Part II",
+            "year": 1989,
+            "genre": [
+                "Sci-Fi",
+                "Adventure"
+            ]
+        },
+        {
+            "id": 37,
+            "title": "Back to the Future Part III",
+            "year": 1990,
+            "genre": [
+                "Sci-Fi",
+                "Western"
+            ]
+        },
+        {
+            "id": 38,
+            "title": "The Truman Show",
+            "year": 1998,
+            "genre": [
+                "Drama"
+            ]
+        },
+        {
+            "id": 39,
+            "title": "The Social Network",
+            "year": 2010,
+            "genre": [
+                "Drama"
+            ]
+        },
+        {
+            "id": 40,
+            "title": "The Wolf of Wall Street",
+            "year": 2013,
+            "genre": [
+                "Drama",
+                "Crime"
+            ]
+        },
+        {
+            "id": 41,
+            "title": "Django Unchained",
+            "year": 2012,
+            "genre": [
+                "Western"
+            ]
+        },
+        {
+            "id": 42,
+            "title": "Inglourious Basterds",
+            "year": 2009,
+            "genre": [
+                "War",
+                "Drama"
+            ]
+        },
+        {
+            "id": 43,
+            "title": "Once Upon a Time in Hollywood",
+            "year": 2019,
+            "genre": [
+                "Comedy",
+                "Drama"
+            ]
+        },
+        {
+            "id": 44,
+            "title": "The Hateful Eight",
+            "year": 2015,
+            "genre": [
+                "Western"
+            ]
+        },
+        {
+            "id": 45,
+            "title": "Casino",
+            "year": 1995,
+            "genre": [
+                "Crime",
+                "Drama"
+            ]
+        },
+        {
+            "id": 46,
+            "title": "Heat",
+            "year": 1995,
+            "genre": [
+                "Crime",
+                "Drama"
+            ]
+        },
+        {
+            "id": 47,
+            "title": "The Big Lebowski",
+            "year": 1998,
+            "genre": [
+                "Comedy"
+            ]
+        },
+        {
+            "id": 48,
+            "title": "No Country for Old Men",
+            "year": 2007,
+            "genre": [
+                "Crime",
+                "Thriller"
+            ]
+        },
+        {
+            "id": 49,
+            "title": "There Will Be Blood",
+            "year": 2007,
+            "genre": [
+                "Drama"
+            ]
+        },
+        {
+            "id": 50,
+            "title": "La La Land",
+            "year": 2016,
+            "genre": [
+                "Drama",
+                "Music"
+            ]
+        },
+        {
+            "id": 51,
+            "title": "Mad Max: Fury Road",
+            "year": 2015,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 52,
+            "title": "Black Panther",
+            "year": 2018,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 53,
+            "title": "Iron Man",
+            "year": 2008,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 54,
+            "title": "The Avengers",
+            "year": 2012,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 55,
+            "title": "Avengers: Infinity War",
+            "year": 2018,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 56,
+            "title": "Avengers: Endgame",
+            "year": 2019,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 57,
+            "title": "Doctor Strange",
+            "year": 2016,
+            "genre": [
+                "Action",
+                "Fantasy"
+            ]
+        },
+        {
+            "id": 58,
+            "title": "Guardians of the Galaxy",
+            "year": 2014,
+            "genre": [
+                "Action",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "id": 59,
+            "title": "Guardians of the Galaxy Vol. 2",
+            "year": 2017,
+            "genre": [
+                "Action",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "id": 60,
+            "title": "Spider-Man: Homecoming",
+            "year": 2017,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 61,
+            "title": "Spider-Man: Into the Spider-Verse",
+            "year": 2018,
+            "genre": [
+                "Animation",
+                "Action"
+            ]
+        },
+        {
+            "id": 62,
+            "title": "The Batman",
+            "year": 2022,
+            "genre": [
+                "Action",
+                "Crime"
+            ]
+        },
+        {
+            "id": 63,
+            "title": "Joker",
+            "year": 2019,
+            "genre": [
+                "Drama",
+                "Crime"
+            ]
+        },
+        {
+            "id": 64,
+            "title": "Logan",
+            "year": 2017,
+            "genre": [
+                "Action",
+                "Drama"
+            ]
+        },
+        {
+            "id": 65,
+            "title": "Deadpool",
+            "year": 2016,
+            "genre": [
+                "Action",
+                "Comedy"
+            ]
+        },
+        {
+            "id": 66,
+            "title": "Deadpool 2",
+            "year": 2018,
+            "genre": [
+                "Action",
+                "Comedy"
+            ]
+        },
+        {
+            "id": 67,
+            "title": "Shutter Island",
+            "year": 2010,
+            "genre": [
+                "Thriller"
+            ]
+        },
+        {
+            "id": 68,
+            "title": "The Revenant",
+            "year": 2015,
+            "genre": [
+                "Drama"
+            ]
+        },
+        {
+            "id": 69,
+            "title": "Birdman",
+            "year": 2014,
+            "genre": [
+                "Drama"
+            ]
+        },
+        {
+            "id": 70,
+            "title": "A Beautiful Mind",
+            "year": 2001,
+            "genre": [
+                "Drama"
+            ]
+        },
+        {
+            "id": 71,
+            "title": "The Imitation Game",
+            "year": 2014,
+            "genre": [
+                "Drama"
+            ]
+        },
+        {
+            "id": 72,
+            "title": "The Theory of Everything",
+            "year": 2014,
+            "genre": [
+                "Drama"
+            ]
+        },
+        {
+            "id": 73,
+            "title": "Her",
+            "year": 2013,
+            "genre": [
+                "Romance",
+                "Sci-Fi"
+            ]
+        },
+        {
+            "id": 74,
+            "title": "Ex Machina",
+            "year": 2014,
+            "genre": [
+                "Sci-Fi",
+                "Drama"
+            ]
+        },
+        {
+            "id": 75,
+            "title": "Arrival",
+            "year": 2016,
+            "genre": [
+                "Sci-Fi"
+            ]
+        },
+        {
+            "id": 76,
+            "title": "Gravity",
+            "year": 2013,
+            "genre": [
+                "Sci-Fi"
+            ]
+        },
+        {
+            "id": 77,
+            "title": "The Martian",
+            "year": 2015,
+            "genre": [
+                "Sci-Fi"
+            ]
+        },
+        {
+            "id": 78,
+            "title": "Star Trek",
+            "year": 2009,
+            "genre": [
+                "Sci-Fi"
+            ]
+        },
+        {
+            "id": 79,
+            "title": "Star Trek Into Darkness",
+            "year": 2013,
+            "genre": [
+                "Sci-Fi"
+            ]
+        },
+        {
+            "id": 80,
+            "title": "Star Trek Beyond",
+            "year": 2016,
+            "genre": [
+                "Sci-Fi"
+            ]
+        },
+        {
+            "id": 81,
+            "title": "A Star Is Born",
+            "year": 2018,
+            "genre": [
+                "Drama",
+                "Music"
+            ]
+        },
+        {
+            "id": 82,
+            "title": "Stardust",
+            "year": 2007,
+            "genre": [
+                "Fantasy"
+            ]
+        },
+        {
+            "id": 83,
+            "title": "Starship Troopers",
+            "year": 1997,
+            "genre": [
+                "Sci-Fi",
+                "Action"
+            ]
+        },
+        {
+            "id": 84,
+            "title": "The Hunt for Red October",
+            "year": 1990,
+            "genre": [
+                "Thriller"
+            ]
+        },
+        {
+            "id": 85,
+            "title": "Top Gun",
+            "year": 1986,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 86,
+            "title": "Top Gun: Maverick",
+            "year": 2022,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 87,
+            "title": "Mission: Impossible",
+            "year": 1996,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 88,
+            "title": "Mission: Impossible \u2013 Fallout",
+            "year": 2018,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 89,
+            "title": "John Wick",
+            "year": 2014,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 90,
+            "title": "John Wick: Chapter 2",
+            "year": 2017,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 91,
+            "title": "John Wick: Chapter 3 \u2013 Parabellum",
+            "year": 2019,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 92,
+            "title": "The Bourne Identity",
+            "year": 2002,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 93,
+            "title": "The Bourne Supremacy",
+            "year": 2004,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 94,
+            "title": "The Bourne Ultimatum",
+            "year": 2007,
+            "genre": [
+                "Action"
+            ]
+        },
+        {
+            "id": 95,
+            "title": "Oppenheimer",
+            "year": 2023,
+            "genre": [
+                "Drama"
+            ]
+        },
+        {
+            "id": 96,
+            "title": "Tenet",
+            "year": 2020,
+            "genre": [
+                "Action",
+                "Sci-Fi"
+            ]
+        }
+    ]
+}

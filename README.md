@@ -14,7 +14,7 @@ This project shows how to connect a `UISearchBar` to a Combine pipeline that fil
 
 ## 🎥 Demo
 
-![Demo](demo.gif)
+<img src="demo.gif" width="250" />
 
 ---
 

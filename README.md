@@ -14,18 +14,7 @@ This project shows how to connect a `UISearchBar` to a Combine pipeline that fil
 
 ## 🎥 Demo
 
-> **GIF Placeholder**
->
-> Add a short GIF showing:
-> 1) typing in the search bar,
-> 2) debounced updates,
-> 3) the table expanding/collapsing smoothly.
->
-> Example filename: `demo.gif`
->
-> ```md
-> ![Demo](demo.gif)
-> ```
+![Demo](demo.gif)
 
 ---
 
